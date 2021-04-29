@@ -1,0 +1,14 @@
+.banner {
+  background-image: url('../../images/cover.jpg');
+  background-size: cover;
+  background-position: center;
+  color: white;
+  height: 550px;
+  display: flex;
+}
+
+.banner p {
+  opacity: 0.7;
+  font-size: 20px;
+  margin-bottom: 40px;
+}

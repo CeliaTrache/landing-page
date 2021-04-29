@@ -1,0 +1,11 @@
+.btn-medium {
+  color: white;
+  background-color: #fe5345;
+  padding: 15px 30px;
+  border-radius: 30px;
+  font-weight: 300;
+}
+
+/* .btn-medium:hover {
+  opacity: 1;
+} */
